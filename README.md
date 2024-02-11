@@ -1,3 +1,0 @@
-### GIT AND GITHUB TUTORIALS
-
-## vj
